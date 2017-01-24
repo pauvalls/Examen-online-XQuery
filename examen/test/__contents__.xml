@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/examen/test" version="1" owner="admin" group="dba" mode="777" created="2017-01-19T16:44:44.325+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="sample_1.xml" skip="no" owner="admin" group="dba" mode="644" created="2017-01-21T19:04:28.039+01:00" modified="2017-01-24T10:55:08.274+01:00" filename="sample_1.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="prueba.xml" skip="no" owner="admin" group="dba" mode="644" created="2017-01-19T16:45:15.68+01:00" modified="2017-01-19T16:45:15.68+01:00" filename="prueba.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

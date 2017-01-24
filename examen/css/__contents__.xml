@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/examen/css" version="1" owner="admin" group="dba" mode="777" created="2017-01-19T16:44:20.342+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="bootstrap.min.css" skip="no" owner="admin" group="dba" mode="644" created="2017-01-23T21:00:05.121+01:00" modified="2017-01-23T22:22:25.148+01:00" filename="bootstrap.min.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="bootstrap-theme.min.css" skip="no" owner="admin" group="dba" mode="644" created="2017-01-23T21:00:05.178+01:00" modified="2017-01-23T22:22:25.203+01:00" filename="bootstrap-theme.min.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="styles.css" skip="no" owner="admin" group="dba" mode="777" created="2017-01-21T18:52:58.992+01:00" modified="2017-01-24T11:55:52.018+01:00" filename="styles.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

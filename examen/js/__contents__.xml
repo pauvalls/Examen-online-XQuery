@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/examen/js" version="1" owner="admin" group="dba" mode="777" created="2017-01-19T16:44:31.085+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="bootstrap.min.js" skip="no" owner="admin" group="dba" mode="644" created="2017-01-23T21:00:24.078+01:00" modified="2017-01-23T22:22:10.339+01:00" filename="bootstrap.min.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="scripts.js" skip="no" owner="admin" group="dba" mode="644" created="2017-01-22T19:23:31.592+01:00" modified="2017-01-24T12:04:06.01+01:00" filename="scripts.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

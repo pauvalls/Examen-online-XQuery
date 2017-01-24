@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/examen/fonts" version="1" owner="admin" group="dba" mode="755" created="2017-01-23T21:00:35.596+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="glyphicons-halflings-regular.eot" skip="no" owner="admin" group="dba" mode="644" created="2017-01-23T21:00:45.628+01:00" modified="2017-01-23T22:22:40.016+01:00" filename="glyphicons-halflings-regular.eot" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings-regular.ttf" skip="no" owner="admin" group="dba" mode="644" created="2017-01-23T21:00:45.966+01:00" modified="2017-01-23T22:22:40.191+01:00" filename="glyphicons-halflings-regular.ttf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings-regular.woff" skip="no" owner="admin" group="dba" mode="644" created="2017-01-23T21:00:46.021+01:00" modified="2017-01-23T22:22:40.248+01:00" filename="glyphicons-halflings-regular.woff" mimetype="application/font-woff">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="glyphicons-halflings-regular.woff2" skip="no" owner="admin" group="dba" mode="644" created="2017-01-23T21:00:46.097+01:00" modified="2017-01-23T22:22:40.32+01:00" filename="glyphicons-halflings-regular.woff2" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="glyphicons-halflings-regular.svg" skip="no" owner="admin" group="dba" mode="644" created="2017-01-23T21:00:45.695+01:00" modified="2017-01-23T22:22:40.072+01:00" filename="glyphicons-halflings-regular.svg" mimetype="image/svg+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

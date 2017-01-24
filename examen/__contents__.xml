@@ -1,0 +1,22 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/examen" version="1" owner="admin" group="dba" mode="777" created="2017-01-19T16:37:17.677+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="index.xql" skip="no" owner="admin" group="dba" mode="777" created="2017-01-19T16:40:05.587+01:00" modified="2017-01-24T10:56:17.845+01:00" filename="index.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index_old.xql" skip="no" owner="admin" group="dba" mode="755" created="2017-01-24T10:15:06.41+01:00" modified="2017-01-24T10:15:06.41+01:00" filename="index_old.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="triesover.html" skip="no" owner="admin" group="dba" mode="644" created="2017-01-24T09:44:55.056+01:00" modified="2017-01-24T09:56:08.954+01:00" filename="triesover.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timeover.html" skip="no" owner="admin" group="dba" mode="755" created="2017-01-24T09:45:15.562+01:00" modified="2017-01-24T09:55:51.879+01:00" filename="timeover.html" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="correction.xql" skip="no" owner="admin" group="dba" mode="755" created="2017-01-23T19:19:07.171+01:00" modified="2017-01-24T11:59:43.749+01:00" filename="correction.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="fonts" filename="fonts"/>
+    <subcollection name="test" filename="test"/>
+    <subcollection name="css" filename="css"/>
+    <subcollection name="js" filename="js"/>
+</collection>
